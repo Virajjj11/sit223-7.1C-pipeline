@@ -1,1 +1,1 @@
-# sit223-7.1C-pipeline
+   Testing automatic trigger for Jenkins pipeline.
